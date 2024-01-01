@@ -3,11 +3,9 @@
 Welcome to the GitHub repository for me Full Stack Developer using .NET. This project showcases a robust and efficient implementation of web applications leveraging the power of .NET technologies. This README Provides some information about me.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about anything <a> hraf="www.linkedin.com/in/sara-nashat-badawy-22a530241"</a>
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on Big projects.
+- 💬 Ask me about anything on linkedin.
+
 
 
 
