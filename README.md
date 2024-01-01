@@ -1,22 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sara+Badawy!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center"> junior Full Stack Developer Using From Egypt</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Innovscope company**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Asp.Netcore8,API,MVCcore,...**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **.Net,Sql,Angular... or anything [here](
+www.linkedin.com/in/sara-nashat-badawy-22a530241)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+👯 I’m looking to collaborate on Big projects
 
  </div>
  
@@ -80,7 +81,7 @@
 Welcome to the GitHub repository for me Full Stack Developer using .NET. This project showcases a robust and efficient implementation of web applications leveraging the power of .NET technologies. This README Provides some information about me.
 
 
-- 👯 I’m looking to collaborate on Big projects.
+- 
 - 💬 Ask me about anything on linkedin.
 
 
