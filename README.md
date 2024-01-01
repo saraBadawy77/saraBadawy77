@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi there 👋,  I'm Sara Badawy
+#### Full Stack Developer using .NET
+Welcome to the GitHub repository for me Full Stack Developer using .NET. This project showcases a robust and efficient implementation of web applications leveraging the power of .NET technologies. This README Provides some information about me.
 
-**saraBadawy77/saraBadawy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
