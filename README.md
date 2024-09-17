@@ -8,9 +8,8 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Innovscope company**
- 
+🔭 I’m currently working on **Premium Card company**
+    
  🌱 I’m currently learning **Asp.Netcore8,API,MVCcore,...**
 
 💬 Ask me about **.Net,Sql,Angular... or anything [here](
